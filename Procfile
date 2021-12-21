@@ -1,1 +1,0 @@
-star-wars-api-test: node dist/index.js 
