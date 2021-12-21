@@ -30,4 +30,7 @@ app.use(errorHandler);
 
 app.listen(config.port, () => {
   console.log(`Listening http://localhost:${config.port}`);
+  console.log(`Server: ${config.server}`);
+  console.log(`API DOMAIN: ${config.api_domain}`);
+  console.log(`API BASE URL: ${config.api_base_url}`);
 });
