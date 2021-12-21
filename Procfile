@@ -1,1 +1,1 @@
-star-wars-api-test: node dist/index.js
+star-wars-api-test: node dist/index.js 
